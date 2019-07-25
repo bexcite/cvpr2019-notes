@@ -1,6 +1,6 @@
 # CVPR 2019 Notes
 
-Follow the tradition from the last year [CVPR 2018 Notes](https://github.com/bexcite/cvpr2018-notes) I've decided to put the list of the papers from this year CVPR 2019. Here is the links to the main conference site with tutorials and workshops:
+Following the tradition from the last year [CVPR 2018 Notes](https://github.com/bexcite/cvpr2018-notes) I've decided to put the list of the papers from this year CVPR 2019. Here is the links to the main conference site with tutorials and workshops:
 
 * [CVPR 2019 Papers](http://openaccess.thecvf.com/CVPR2019.py)
 * [CVPR 2019 Workshops Papers](http://openaccess.thecvf.com/CVPR2019_workshops/menu.py)
